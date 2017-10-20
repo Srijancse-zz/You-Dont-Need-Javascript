@@ -44,7 +44,7 @@ Please note these demos should be considered as CSS "Proofs of Concepts". They m
 1. [Twitter Heart Animation](#Twitter)
 1. [Dynamic Image Colorizing](#ImageColorizing)
 1. [Ripple Effect](#RippleEffect)
-
+1. [Animation](#Animation)
 
 ## <a id="Accordion"></a>Accordion / Toggle
 
@@ -270,6 +270,14 @@ Please note these demos should be considered as CSS "Proofs of Concepts". They m
 
 **[⬆ back to top](#quick-links)**
 
+***
+&nbsp;
+
+## <a id="Animation"></a> Animation
+
+[<img src="images/Animations.gif" height="230" title="Animation Demo">]
+
+**[⬆ back to top](#quick-links)**
 ***
 &nbsp;
 
